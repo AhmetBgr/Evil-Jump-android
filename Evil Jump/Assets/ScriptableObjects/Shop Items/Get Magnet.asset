@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 981100bc95d2c3646955f34f6dd22559, type: 3}
+  m_Name: Get Magnet
+  m_EditorClassIdentifier: 
+  collectable: {fileID: 11400000, guid: 54058843049f5534b9e7b8aef6758e89, type: 2}
+  cost: 40
+  name: Magnet
+  isAvailable: 1
+  isInSlot: 0
+  info: 'Start with Magnet on your next game.
+
+'
+  itemType: 1

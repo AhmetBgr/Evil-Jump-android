@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 981100bc95d2c3646955f34f6dd22559, type: 3}
+  m_Name: Get Replacer
+  m_EditorClassIdentifier: 
+  collectable: {fileID: 11400000, guid: 6894bd30ae0f17a4c92d965d162fd36e, type: 2}
+  cost: 20
+  name: Replacer
+  isAvailable: 1
+  isInSlot: 0
+  info: 'Start with Replacer on your next game
+
+
+    Replacer: Replace all platforms on the screen with broken platform. Also replaces
+    object on the platform with coin if you are lucky enough.'
+  itemType: 2

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 997a310579a3e6a4cae5b46ad17dc0b4, type: 3}
+  m_Name: Coin
+  m_EditorClassIdentifier: 
+  type: 20
+  icon: {fileID: 21300000, guid: 2f55d4e7d7a39e34094fd88a04684d90, type: 3}
+  defDuration: 0
+  getOnStart: 0
+  hasThis: 0
+  isdurationFinished: 0
+  isUpgraded: 0
+  isGray: 0
+  magnet: {fileID: 11400000, guid: 54058843049f5534b9e7b8aef6758e89, type: 2}
