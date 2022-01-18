@@ -53,7 +53,7 @@ public class ButtonSlots : MonoBehaviour
         }
     }
 
-    //Adds active power ups to the slot empty slots which player picked up
+    //Adds active power ups to the empty slots which player picked up
     public void AddPassivePU(Collectable powerUp){
         for (int i = 0; i < durationUIs.Length; i++){   
             if(durationUIs[i].currentCol == powerUp){
@@ -71,7 +71,7 @@ public class ButtonSlots : MonoBehaviour
         }
     }
 
-    //Adds active power ups to the slot empty slots which player picked up
+    //Adds active power ups to the empty slots which player picked up
     public void AddActivePU(Collectable powerUp){
         for(int i = 0; i<2; i++){   
             if(!powerUpButton[i].IsActive()){
