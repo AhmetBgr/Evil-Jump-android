@@ -1,7 +1,7 @@
 # Evil-Jump-android
 Evil Jump is a Doodle Jump style game available as open source made in unity. 
 
-Apk is not available in play store but if you want to play here is the apk in google drive;
+Game isn't available in play store but if you want to play here is the apk;
 - https://drive.google.com/file/d/12onr-BoVft05D5i_VpjqryvN4HWB94MP/view?usp=sharing
 
 ## About the project
