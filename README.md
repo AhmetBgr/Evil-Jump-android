@@ -9,7 +9,7 @@ Game isn't available in play store but if you want to play here is the apk;
 This is the first ever game I made in unity. I wanted to do similar game to an already existing game with simple design and add new mechanichs to that design to learn unity's basics, C# and basic elements of game design. The new mechanichs I implemented to the game were followings;
 - Dash mechanic to destroy enemies and quickly move one platform to another,
 - Active and passive power ups,
-- Shop system to buy and upgrade power ups.
+- A shop to buy and upgrade power ups.
 
 Here is the gameplay;
 - https://www.youtube.com/watch?v=tQspj1k1MQA
